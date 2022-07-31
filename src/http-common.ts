@@ -6,7 +6,7 @@ import axios from "axios";
 
 
 const api = axios.create({
-  baseURL: 'https://localhost:44393/api',
+  baseURL: 'https://main.d1io94l3571hcj.amplifyapp.com/api',
   headers: {
     'Content-Type': 'application/json',
   },
